@@ -7,7 +7,7 @@ function Layout({children} : {children : React.ReactNode}) {
     <>
         <Head>
             <title>Frontend-checkpoint</title>
-            <meta name="description" content="The good corner" />
+            <meta name="description" content="frontend-checkpoint" />
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
             <link rel="icon" href="/favicon.ico" />
         </Head>
