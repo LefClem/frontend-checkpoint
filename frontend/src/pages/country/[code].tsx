@@ -42,7 +42,6 @@ export default function Country(){
 
     return (
         <>
-            <Header/>
             <CountryContainer>
                 <h1>{country?.emoji}</h1>
                 <span>Name: {country?.name} ({country?.code})</span>
